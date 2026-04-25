@@ -1,0 +1,5 @@
+extracted_frames/
+*.h5
+*.npy
+pycache/
+.ipynb_checkpoints/
