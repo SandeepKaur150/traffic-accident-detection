@@ -1,4 +1,4 @@
-#Traffic Accident Detection Using Deep Learning
+# Traffic Accident Detection Using Deep Learning
 
 Overview
 Road traffic accidents remain one of the leading causes of preventable fatalities globally, yet the infrastructure to detect them automatically and in real time remains underdeveloped. Modern urban surveillance systems produce continuous video streams that far exceed the capacity of human monitoring. This project investigates whether deep learning models trained on short video sequences can reliably distinguish accident events from normal traffic conditions, without requiring manual per-frame annotation or complex multi-stage detection pipelines.
